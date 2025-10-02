@@ -1,0 +1,1665 @@
+"job_url","title","company","location","description","job_level"
+"https://www.linkedin.com/jobs/view/4306683329","Data Engineer","Ibotta","Denver, CO","Ibotta is looking for a software\\-focused
+ **Data Engineer** 
+ to join our team and contribute to our mission to Make Every Purchase Rewarding. Accelerating development of our cutting\\-edge data platform as a leader in the Data Platform Organization, you will work with both engineering and analytics to develop and own stable, scalable, and approachable data platforms. We're looking for a self\\-motivated engineer who has a passion for enabling data mesh concepts while heavily leveraging AWS cloud and Databricks Lakehouse technologies. The data engineering team is central to delivering and maintaining our modern data, analytics, and decisioning platforms across Ibotta.
+   
+
+  
+
+ This position is located in Denver, Colorado as a hybrid position requiring 3 days in office, (Tuesday, Wednesday, and Thursday). Candidates must live in the United States.
+   
+
+  
+
+**What you will be doing:**
+* Work with cross\\-functional engineering teams to enable approachable and self\\-service data movement and access patterns
+* Provide guidance and assistance to stakeholders with building complex datasets that meet the business needs.
+* Identify, design, and implement process improvements including automating manual processes, optimizing data delivery, re\\-designing infrastructure for greater reliability and performance.
+* Work as a member of the Data Engineering squad to deliver product features and resolve data related technical issues.
+* Work with information security to keep our data secure.
+* Support the engineering of distributed systems, frameworks, and design patterns enabling efficient usage of Ibotta’s Data Lake
+* Use Scala or Python to utilize Spark to collect and manage data at scale
+* Help build and manage automation tools, data pipelines that meets Data Governance and Data Security Standards
+* Evangelize Data Engineering and supporting capabilities with Platform and Analytics teams.
+* Perform incident resolution and root cause analysis of critical outages. Implement solutions to systematic failures. Provide on\\-call support, including after\\-hours on a rotational basis.
+* Assist with documentation of the environments and data tooling that support our products.
+* Embrace and uphold Ibotta’s Core Values: Integrity, Boldness, Ownership, Teamwork, Transparency, \\& A good idea can come from anywhere
+
+
+**What we are looking for:**
+* 3\\+ years of experience in software development, preferably with Scala and Python. Preferred experience building/implementing data pipelines using Databricks
+* Bachelor’s degree in Computer Science, Engineering or a related field required
+* Experience being a key critical contributor participating in medium and large data projects from ideation to implementation
+* Preferred experience with event\\-driven architecture design patterns and practices
+* Experience in database design principles supported by strong SQL abilities
+* Experience building processes supporting data transformation, data structures, metadata, dependency, and workload management
+* Experience with the following a strong plus:
++ AWS Cloud Services; EC2, S3
++ Experience with Scala and Spark
++ Experience with Delta Lake, Apache Iceberg, or Apache Hudi
++ Message Brokers such as Kafka or Kinesis
++ ETL tools and processes (Airflow or other similar tools)
++ Infrastructure as code using Terraform, CloudFormation, etc
++ Experience building APIs and libraries
+
+* Agile (Kanban or Scrum) development experience
+
+
+**About Ibotta (""I bought a..."")**
+ Ibotta (NYSE: IBTA) is a leading performance marketing platform allowing brands to deliver digital promotions to over 200 million consumers through a network of publishers called the Ibotta Performance Network (IPN). The IPN allows marketers to influence what people buy, and where and how often they shop – all while paying only when their campaigns directly result in a sale. American shoppers have earned over $1\\.8 billion through the IPN since 2012\\. The largest tech IPO in history to come out of Colorado, Ibotta is headquartered in Denver, and is continually listed as a top place to work by The Denver Post and Inc. Magazine.
+   
+
+  
+
+ To learn more about what our Tech teams are doing day to day, visit Building Ibotta on Medium.com.
+   
+
+  
+
+  
+
+* This position is located in Denver, CO and includes competitive pay, flexible time off, benefits package (including medical, dental, vision), Lifestyle Spending Account, and 401k match. Denver office perks include paid parking, bagel Wednesdays, snacks and occasional meals.
+* Base compensation range: $110,000\\-126,000\\. Equity is included in overall compensation package. This compensation range is specific to the United States labor market and may be adjusted based on actual experience.
+* Ibotta is an Equal Opportunity Employer. Ibotta’s employment decisions are made without regard of race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, sexual orientation, or any other legally protected status.
+* Applicants must be currently authorized to work in the United States on a full\\-time basis.
+* For the security of our employees and the business, all employees are responsible for the secure handling of data in accordance with our security policies, identifying and reporting phishing attempts, as well as reporting security incidents to the proper channels.
+
+
+ \\#BI\\-Hybrid","mid-senior level"
+"https://www.linkedin.com/jobs/view/4306667862","Data Engineer","Moody's Corporation","Charlotte, NC","At Moody's, we unite the brightest minds to turn today’s risks into tomorrow’s opportunities. We do this by striving to create an inclusive environment where everyone feels welcome to be who they are—with the freedom to exchange ideas, think innovatively, and listen to each other and customers in meaningful ways. Moody’s is transforming how the world sees risk. As a global leader in ratings and integrated risk assessment, we’re advancing AI to move from insight to action—enabling intelligence that not only understands complexity but responds to it. We decode risk to unlock opportunity, helping our clients navigate uncertainty with clarity, speed, and confidence.
+   
+
+  
+
+ If you are excited about this opportunity but do not meet every single requirement, please apply! You still may be a great fit for this role or other open roles. We are seeking candidates who model our values: invest in every relationship, lead with curiosity, champion diverse perspectives, turn inputs into actions, and uphold trust through integrity.
+   
+
+  
+
+**Skills And Qualifications**
+* 3–7 years of hands\\-on data engineering experience in development using Python and Pyspark
+* Experience in AWS cloud services like Glue, Lambda, MSK (Kafka), S3, Step functions, RDS, EKS
+* Experience in Databases like Postgres, SQL Server, Oracle, Sybase
+* Experience with SQL, performance tuning, queries, stored procedures, views, functions, and triggers
+* Ability to learn and use AI tools effectively
+* Understanding of Data pipelines, ETL processes, CI/CD DevOps process and tools like GitHub, Jenkins
+* Knowledge of Data modeling, Warehousing concepts and Agile/SCRUM methodology
+* Strong problem\\-solving and analytical skills
+
+
+**Education**
+* Bachelor's degree in computer science or a related field
+
+
+**Responsibilities**
+* Design, build, and maintain scalable data pipelines
+* Develop and optimize ETL workflows for data ingestion
+* Collaborate with product, app team and analysts to support data needs
+* Ensure data quality and integrity across systems
+* Implement data security and compliance measures
+* Monitor and troubleshoot data pipeline performance
+* Document data engineering processes and workflows
+* Stay updated with emerging data engineering technologies
+
+
+**About The Team**
+ The Moody’s Ratings Technology team delivers global technology services across all areas of Moody’s Ratings. The team’s mission is to deliver exceptional experiences and value for customers and employees by leveraging technology and innovation.
+   
+
+  
+
+ For US\\-based roles only: the anticipated hiring base salary range for this position is $94,800\\.00\\-$137,400\\.00, depending on factors such as experience, education, level, skills, and location. This range is based on a full\\-time position. In addition to base salary, this role is eligible for incentive compensation. Moody’s also offers a competitive benefits package, including not but limited to medical, dental, vision, parental leave, paid time off, a 401(k) plan with employee and company contribution opportunities, life, disability, and accident insurance, a discounted employee stock purchase plan, and tuition reimbursement.
+   
+
+  
+
+ Moody’s is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, sex, gender, age, religion or creed, national origin, ancestry, citizenship, marital or familial status, sexual orientation, gender identity, gender expression, genetic information, physical or mental disability, military or veteran status, or any other characteristic protected by law. Moody’s also provides reasonable accommodation to qualified individuals with disabilities or based on a sincerely held religious belief in accordance with applicable laws. If you need to inquire about a reasonable accommodation, or need assistance with completing the application process, please email accommodations@moodys.com. This contact information is for accommodation requests only, and cannot be used to inquire about the status of applications.
+   
+
+  
+
+ For San Francisco positions, qualified applicants with criminal histories will be considered for employment consistent with the requirements of the San Francisco Fair Chance Ordinance.
+   
+
+  
+
+ This position may be considered a promotional opportunity, pursuant to the Colorado Equal Pay for Equal Work Act.
+   
+
+  
+
+ Click here to view our full EEO policy statement. Click here for more information on your EEO rights under the law. Click here to view our Pay Transparency Nondiscrimination statement. Click here to view our Notice to New York City Applicants.
+   
+
+  
+
+ Candidates for Moody's Corporation may be asked to disclose securities holdings pursuant to Moody’s Policy for Securities Trading and the requirements of the position. Employment is contingent upon compliance with the Policy, including remediation of positions in those holdings as necessary.
+   
+
+  
+
+ For more information on the Securities Trading Program, please refer to the STP Quick Reference guide on ComplianceNet
+   
+
+  
+
+ Please note: STP categories are assigned by the hiring teams and are subject to change over the course of an employee’s tenure with Moody’s.","mid-senior level"
+"https://www.linkedin.com/jobs/view/4306676647","Associate Data Engineer","Moody's Corporation","Charlotte, NC","At Moody's, we unite the brightest minds to turn today’s risks into tomorrow’s opportunities. We do this by striving to create an inclusive environment where everyone feels welcome to be who they are—with the freedom to exchange ideas, think innovatively, and listen to each other and customers in meaningful ways. Moody’s is transforming how the world sees risk. As a global leader in ratings and integrated risk assessment, we’re advancing AI to move from insight to action—enabling intelligence that not only understands complexity but responds to it. We decode risk to unlock opportunity, helping our clients navigate uncertainty with clarity, speed, and confidence.
+   
+
+  
+
+ If you are excited about this opportunity but do not meet every single requirement, please apply! You still may be a great fit for this role or other open roles. We are seeking candidates who model our values: invest in every relationship, lead with curiosity, champion diverse perspectives, turn inputs into actions, and uphold trust through integrity.
+   
+
+  
+
+**Skills And Qualifications**
+* 1–3 years of hands\\-on data engineering experience
+* Proficient in Python for data transformation, automation, and scripting tasks
+* SQL capabilities for complex querying, data analysis, and performance optimization
+* Hands\\-on experience with AWS services such as S3, Lambda, Glue, and Redshift, Step functions, SNS
+* Familiarity with AI/ML tools and frameworks, with a demonstrated ability to integrate them into data workflows
+* Understanding of data pipelines and ETL processes
+* Strong problem\\-solving and analytical skills
+* Working knowledge of dimensional modeling, star/snowflake schemas, and data warehousing best practices
+
+
+**Education**
+* Bachelor’s degree in computer science or a related field
+
+
+**Responsibilities**
+* Design, build, and maintain scalable data pipelines
+* Develop and optimize ETL workflows for data ingestion
+* Collaborate with data scientists and analysts to support data needs
+* Ensure data quality and integrity across systems
+* Implement data security and compliance measures
+* Monitor and troubleshoot data pipeline performance
+* Document data engineering processes and workflows
+* Stay updated with emerging data engineering technologies
+
+
+**About The Team**
+ The Moody’s Ratings Technology team delivers global technology services across all areas of Moody’s Ratings. The team’s mission is to deliver exceptional experiences and value for customers and employees by leveraging technology and innovation. Their vision is rooted in continuous growth, collaboration, and forward\\-thinking solutions. Core values include Collaboration, Results, Integrity, Trust, and Transparency.
+   
+
+  
+
+ For US\\-based roles only: the anticipated hiring base salary range for this position is $78,000\\.00 \\- $113,100\\.00, depending on factors such as experience, education, level, skills, and location. This range is based on a full\\-time position. In addition to base salary, this role is eligible for incentive compensation. Moody’s also offers a competitive benefits package, including not but limited to medical, dental, vision, parental leave, paid time off, a 401(k) plan with employee and company contribution opportunities, life, disability, and accident insurance, a discounted employee stock purchase plan, and tuition reimbursement.
+   
+
+  
+
+ Moody’s is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, sex, gender, age, religion or creed, national origin, ancestry, citizenship, marital or familial status, sexual orientation, gender identity, gender expression, genetic information, physical or mental disability, military or veteran status, or any other characteristic protected by law. Moody’s also provides reasonable accommodation to qualified individuals with disabilities or based on a sincerely held religious belief in accordance with applicable laws. If you need to inquire about a reasonable accommodation, or need assistance with completing the application process, please email accommodations@moodys.com. This contact information is for accommodation requests only, and cannot be used to inquire about the status of applications
+   
+
+  
+
+ For San Francisco positions, qualified applicants with criminal histories will be considered for employment consistent with the requirements of the San Francisco Fair Chance Ordinance.
+   
+
+  
+
+ This position may be considered a promotional opportunity, pursuant to the Colorado Equal Pay for Equal Work Act.
+   
+
+  
+
+ Click here to view our full EEO policy statement. Click here for more information on your EEO rights under the law. Click here to view our Pay Transparency Nondiscrimination statement. Click here to view our Notice to New York City Applicants.
+   
+
+  
+
+ Candidates for Moody's Corporation may be asked to disclose securities holdings pursuant to Moody’s Policy for Securities Trading and the requirements of the position. Employment is contingent upon compliance with the Policy, including remediation of positions in those holdings as necessary.","entry level"
+"https://www.linkedin.com/jobs/view/4306677726","Big Data Engineer","Boost Mobile","Littleton, CO","**Company Summary**
+ EchoStar builds solutions that help families and communities stay connected. We’ll launch your career and empower you to change lives.
+   
+
+  
+
+ Our brands include Boost Mobile, DISH TV, Gen Mobile, Hughes and Sling TV. We serve millions of customers with offerings ranging from satellite to streaming services and global to personal networking solutions.
+   
+
+  
+
+**Department Summary**
+ Our Technology teams challenge the status quo and reimagine capabilities across industries. Whether through research and development, technology innovation or solution engineering, our people play vital roles in connecting consumers with the products and platforms of tomorrow.
+   
+
+  
+
+**Job Duties And Responsibilities**
+ As a Big Data Engineer on our 5G Network Analytics team, you will be responsible for designing, building and managing data pipelines specifically tailored for artificial intelligence (AI) models.
+   
+
+  
+
+ Priorities include ensuring high\\-quality data is readily available for training and deployment, data cleaning, transformation, integration, quality checks, and collaborating with AI engineers to optimize model performance.
+   
+
+  
+
+**Key Responsibilities**
+* Design and implement robust data pipelines to extract, transform, and load (ETL) data from various sources, optimizing for efficient AI model training
+* Gather and understand data requirements, create and maintain automated ETL processes with special focus on data flow, error recovery, and exception handling and reporting
+* Support data and cloud transformation initiatives
+* Support our software engineers and data scientists
+* Understand the latest technologies in a rapidly innovative marketplace
+* Ability to work independently and with a team with all stakeholders across the organization to deliver enhanced functionality
+
+
+**Skills, Experience And Requirements**
+**Education and Experience:**
+* Bachelor's degree in computer science, or similar technical field
+* Minimum 5 years of experience in Big Data Engineering/Data Analysis
+
+
+**Preferred Skills And Qualifications**
+* Proficiency in Python, SQL and Apache Spark
+* AWS services such as EMR, Glue (serverless architecture), S3, Athena, IAM, Lambda and CloudWatch
+* Core Spark, Spark Streaming, DataFrame API, Data Set API, RDD APIs \\& Spark SQL programming dealing with processing terabytes of data
+* Advanced SQL using Hive/Impala framework including SQL performance tuning
+* Expertise in Hadoop, and other distributed computing frameworks
+* ElasticSearch (OpenSearch) and Kibana Dashboards
+* Resource management frameworks such as Yarn or Mesos.
+* Physical table design in Big Data environment
+* External job schedulers such as autosys, AWS data pipeline, airflow etc.
+* Experience working in Key/Value data store such as Hbase
+
+
+**Salary Ranges**
+ Compensation: $96,250\\.00/Year \\- $137,500\\.00/Year
+   
+
+  
+
+**Benefits**
+ We offer versatile health perks, including flexible spending accounts, HSA, a 401(k) Plan with company match, ESPP, career opportunities, and a flexible time away plan.
+   
+
+  
+
+ The base pay range shown is a guideline. Individual total compensation will vary based on factors such as qualifications, skill level, and competencies; compensation is based on the role's location and is subject to change based on work location.
+   
+
+  
+
+ Candidates need to successfully complete a pre\\-employment screen, which may include a drug test and DMV check. Our company is committed to fostering an inclusive and equitable workplace where every individual has the opportunity to succeed. We are dedicated to providing individuals with criminal or arrest records a fair chance of employment in accordance with local, state, and federal laws.
+   
+
+  
+
+ The posting will be active for a minimum of 3 days. The active posting will continue to extend by 3 days until the position is filled.","not applicable"
+"https://www.linkedin.com/jobs/view/4302498350","Cloud Data Engineer","TalentAlly","Lees Summit, MO","G.E.H.A (Government Employees Health Association, Inc.) is a nonprofit member association that provides medical and dental benefits to more than two million federal employees and retirees, military retirees and their families. We celebrate diversity and are committed to creating an inclusive environment for all employees.
+   
+
+  
+
+ G.E.H.A has one mission: To empower federal workers to be healthy and well.
+   
+
+  
+
+ Offering one of the largest medical and dental benefit provider networks available to federal employees in the United States, G.E.H.A empowers health and wellness by meeting its members where they are, when they need care. We serve our members with products they value and a personalized customer experience, sustained by a nimble and efficient organization.
+   
+
+  
+
+ As a Cloud Data Engineer, you will be developing and maintaining scalable data pipelines in Microsoft Azure or Snowflake. You will collaborate with business data analysts, data architects, data scientists, project managers, and G.E.H.A's business stakeholders to build solutions that ensure seamless data flow and enable actionable insights. This role supports data development and maintenance efforts of the Data \\& Analytics activities and initiatives in alignment with the Enterprise Data strategy, policies, and organizational goals. This role will work in a cloud\\-native environment to design and optimize data solutions that improve performance, scalability, and efficiency of our data and analytics offerings.
+   
+
+  
+
+**Skills**
+**Key Responsibilities:**
+* Proven experience as a Cloud Data Engineer or similar role, specifically working with Azure or Snowflake.
+* Design and Build Data Pipelines: Design and develop scalable, efficient, and secure ETL/ELT pipelines ensuring the efficient flow of data from multiple sources to Snowflake for processing, storing, analyzing, and consuming large datasets on Snowflake.
+* Cloud Data Architecture: Design and implement data solutions in Snowflake to support business intelligence, analytics, and data science initiatives.
+* Cloud Platform Data Architecture: Design and optimization of Snowflake architecture, including data models, schema design, partitioning, clustering, and query optimization to ensure high performance and low cost.
+* Collaborate with Stakeholders: Work closely with cross\\-functional teams, including business data analysts, data architects, data scientists, project managers and business units, to define data requirements and implement data solutions that support documented and approved business goals.
+* With minimal guidance, work independently on assigned stories/tasks and deploy data solution through environments to Production using the approved Change Management process.
+* Data Security, Governance \\& Compliance: Implement data solutions that follow best practices and the company policies to ensure data privacy, security, and compliance with relevant governance in the cloud environment.
+* Automation and Monitoring: Implement and manage automated monitoring and logging for all data workflows and pipelines to ensure data integrity and operational reliability.
+* Troubleshooting and Support: Troubleshoot issues with data pipelines, data integrity, and platform performance, providing timely resolutions to business\\-critical data needs.
+* Ensure that all deliverables follow the company Change Management process.
+* Participate in scrum, backlog grooming, refinement, planning and review sessions.
+* Other duties as assigned.
+
+
+**Required Qualifications**
+* Requires 3\\-5 years of relevant technical or business work experience with demonstrated experience within healthcare industry or data and analytics.
+* Bachelor's degree in computer science, Information Technology, Data Engineering, Mathematics, or a related field or comparable experience.
+* Direct experience in designing and implementing data architectures on Snowflake (preferred).
+* Proven experience as a Cloud Data Engineer or similar role, specifically working with Snowflake.
+* Experience with Snowflake data platform, specifically on consumption patterns, performance turning, and cost optimization.
+* Proficiency in SQL and valuable experience with writing complex queries, stored procedures, and managing large datasets.
+* Solid understanding of Data Warehouse concepts, database management systems (SQL and NoSQL), and ETL/ELT frameworks, ideally in Snowflake.
+* Competent SQL skills or equivalent such Python, R, Apache Spark etc.
+* Familiarity with DevOps practices, Repos, Snowflake, and CI/CD pipelines for data solutions.
+* Ability to work in a collaborative, cross\\-functional team environment and communicate complex technical concepts to non\\-technical stakeholders.
+* Good understanding of Agile and Scrum processes.
+* Experience \\& eagerness for problem solving and root cause analysis for any issues.
+* Enthusiastic to learn innovative technologies \\& techniques; eagerness towards understanding data \\& business processes to contribute \\& have influence.
+* Ability to work collaboratively in a team environment.
+* Prior knowledge or willingness to learn healthcare and analytics industries
+
+
+**Preferred Qualifications**
+* Preferred fundamentals certification in Snowflake, Azure or comparable cloud platform or technology.
+
+
+ Work\\-at\\-home requirements
+   
+
+  
+
+* Must have the ability to provide a non\\-cellular High Speed Internet Service such as Fiber, DSL, or cable Modems for a home office.
+* A minimum standard speed for optimal performance of 30x5 (30mpbs download x 5mpbs upload) is required.
+* Latency (ping) response time lower than 80 ms
+* Hotspots, satellite and wireless internet service is NOT allowed for this role.
+* A dedicated space lacking ongoing interruptions to protect member PHI / HIPAA information
+
+
+ How we value you
+   
+
+  
+
+* Competitive pay/salary ranges
+* Incentive plan
+* Health/Vision/Dental benefits effective day one
+* 401(k) retirement plan: company match \\- dollar for dollar up to 4% employee contribution (pretax or Roth options) plus a 6% annual company contribution
+* Robust employee well\\-being program
+* Paid Time Off
+* Personal Community Enrichment Time
+* Company\\-provided Basic Life and AD\\&D
+* Company\\-provided Short\\-Term \\& Long\\-Term Disability
+* Tuition Assistance Program
+
+
+ While this is a remote opportunity, at this time G.E.H.A does not hire employees from U.S. territories or the following states: Alaska, Hawaii, California, Washington, Oregon, Colorado, Wyoming, Montana, New York, Connecticut, Vermont, Pennsylvania, Maine.
+   
+
+  
+
+ Please note that the salary information is a general guideline only. G.E.H.A considers factors such as (but not limited to) scope and responsibilities of the position, candidate's work experience, education/training, key skills, internal peer equity, as well as, market and business considerations when extending an offer.
+   
+
+  
+
+ The hiring range for this position is $94,039 \\- $118,965 USD. At G.E.H.A, the current maximum salary for this role is $132,561 USD. While initial compensation may vary based on experience and qualifications, there is a path to work toward this top rate through performance and continued growth within the organization.
+   
+
+  
+
+ G.E.H.A is an Equal Opportunity Employer, which means we will not discriminate against any individual based on sex, race, color, national origin, disability, religion, age, military status, genetic information, veteran status, pregnancy, marital status, gender identity, and sexual orientation, as well as all other characteristics and qualities protected by federal, state, or local law. G.E.H.A will not discriminate against employees or applicants because they have inquired about, discussed, or disclosed their compensation or the compensation of another employee or applicant. We are committed to creating an inclusive environment for all employees. Our diversity drives innovation deepens connections and strengthens our organization.
+   
+
+  
+
+ G.E.H.A is headquartered in Lee's Summit, Missouri, in the Kansas City area. We recognize the importance of balance and flexibility and offer hybrid and work\\-from\\-home options for many of our roles.
+   
+
+  
+
+ PDN\\-9fd754ff\\-147e\\-4963\\-a0e9\\-d0c395df31c3","mid-senior level"
+"https://www.linkedin.com/jobs/view/4308125847","Software Engineer, Integrations","Clay","New York, NY","**About Clay**
+ Clay is a creative tool for growth. Our mission is to help businesses grow — without huge investments in tooling or manual labor. We’re already helping over 100,000 people grow their business with Clay. From local pizza shops to enterprises like Anthropic and Notion, our tool lets you instantly translate any idea that you have for growing your company into reality.
+   
+
+  
+
+ We believe that modern GTM teams win by finding
+ *GTM alpha* 
+ —a unique competitive edge powered by data, experimentation, and automation. Clay is the platform they use to uncover hidden signals, build custom plays, and launch faster than their competitors. We’re looking for sharp, low\\-ego people to help teams find their GTM alpha.
+   
+
+  
+
+*Why is Clay the best place to work?*
+* Customers love the product (100K\\+ users and growing)
+* We’re growing a lot (6x YoY last year, and 10x YoY the two years before that)
+* Incredible culture (our customers keep applying to work here)
+* Well\\-resourced \\- We raised a $100M Series C in 2025 at a $3\\.1B valuation and are backed by world\\-class investors like Capital G (Google), Sequoia and Meritech
+
+
+ Read more about why people love working at Clay here and explore our wall of love to learn more about the product.
+   
+
+  
+
+**Software Engineer, Integrations @ Clay**
+ As a software engineer on our integrations team, you’ll play a key role in building and scaling the data enrichments that are a cornerstone of our product. You’ll become an expert in building great 3rd party integrations, contributing to best practices around designing, developing, and maintaining our 100\\+ integrations that customers rely on every day. You’ll improve the scalability and functionality of our integration system, including our authorization, rate limiting and queueing systems for integrations. Putting on your product hat, you’ll also have the opportunity to improve the fullstack data enrichment user experience for our customers.
+   
+
+  
+
+ This is an opportunity to simultaneously ship code daily that directly unlocks new customer use cases, shape the architecture of our integrations system, and support other engineers on the team.
+   
+
+  
+
+**What You’ll Do**
+* Design \\& ship new integrations with data providers who range from well\\-documented REST APIs to hand\\-rolled custom data solutions, webhooks and SQL databases.
+* Improve the integrations framework and infrastructure. You’ll improve the full\\-stack integrations system components such as account authorization, rate limiting and request queueing, and contribute to new ones like a data file ingestion and serving system. You’ll also contribute to ways in which we can make it easier to build and maintain new integrations.
+* Work cross\\-functionally with other teams in engineering, partnerships, customer success, and sales to understand customer needs, respond to feedback, and measure success. This includes explaining technical concepts to both other engineers and nontechnical folks at the company.
+* Debug and improve existing integrations. You’ll take ownership of integrations from start to finish, including iterating on feedback and maintaining their evolution over time.
+* Partner with product managers and customers to design and deliver new customer\\-facing features. You’ll help shape custom user experiences tailored to integrations, drawing on strong product sense and the ability to translate customer feedback and use cases into practical solutions.
+
+
+ What You'll Bring
+   
+
+  
+
+* You have experience with APIs, either building integrations with 3rd party APIs or building public APIs of your own.
+* You have a proven track record of execution. You have 2\\+ years of hands on software engineering experience building world\\-class products and shipping quickly.
+* You are an empathetic communicator. You express nuanced ideas clearly at different levels of abstraction for different audiences. In disagreements, you prioritize curiosity over confrontation, making sure everyone feels heard and understood. You enjoy mentoring peers and providing feedback on their code \\& technical designs.
+* You’re familiar with our current tech stack or can learn unfamiliar technologies quickly. For integrations the primary stack is Typescript, Node.js, AWS Lambda, SQL, and React.
+* Bonus: You have experience designing scalable distributed systems. You’re experienced with distributed systems principles like rate limiting and queueing, serverless computing, and data ingestion and serving.
+* Bonus: you understand sales and marketing workflows and are familiar with sales and marketing APIs.","entry level"
+"https://www.linkedin.com/jobs/view/4304288386","Associate Data Analyst","MissionWired","","At MissionWired, we help our partners create revolutionary fundraising strategies that advance their mission, change our country, and have a positive impact on the world.
+   
+
+  
+
+ MissionWired is the only wholly integrated direct marketing agency for nonprofits and Democratic organizations. We help our partners tell big, ambitious stories that invite their supporters into communities to raise mission\\-changing revenue. Our results are unrivaled, having converted more than $4\\.5 billion in donations to the world’s most trusted philanthropies and groundbreaking campaigns. We do it over email and SMS, in the mail, across social media, everywhere. We don’t think in terms of channels; we’re single\\-minded in pursuit of your success.
+   
+
+  
+
+ We’re innovative, progress\\-obsessed, do\\-gooders who care deeply about social change and continuing to push the limits on what we can accomplish together. We’ve brought strategies to life for nonprofit organizations working around the world, including Sandy Hook Promise, Human Rights Watch, The Humane Society of the U.S., Save the Children, and Friends of the Earth. Over the years, we have worked with various progressive political organizations and believe that each election cycle is an opportunity for us to support organizations across the country and elect Democrats to legislative bodies up and down the ballot.
+   
+
+  
+
+ We’re an equal\\-opportunity employer and take seriously our commitment to equality and equity. Our efforts to be inclusive and create opportunity don’t end when someone joins us – they begin.
+   
+
+  
+
+ We’ve set our sights on changing the world through our work and with our clients, and representation is at the foundation of what we do. We know that diversity of thought and background makes us stronger. That’s why we’re committed to building and maintaining a diverse community.
+   
+
+  
+
+ Every new team member broadens our perspective and allows us to think bigger. We’ll be at our best when people from underrepresented communities and people with a range of perspectives and lived experiences want to come, stay, and push the boundaries of what’s possible.
+   
+
+  
+
+**Overview** 
+ : We are looking for an Associate Data Analyst to join us in developing insights to support decision\\-making in online fundraising for some of the biggest names in progressive causes. The analyses you develop will improve the lives of people throughout the world by empowering digital donors and activists to support our mission\\-driven clients. You’ll be driving positive change by transforming data into strategy as part of a team of data scientists and engineers.
+   
+
+  
+
+ You’ll join a team that is deeply devoted to inclusion, particularly in the following three areas:
+   
+
+  
+
+ Process: We create a context in which everyone is empowered to contribute.
+   
+
+  
+
+ Data Driven: We are committed to identifying and removing bias from our algorithms.
+   
+
+  
+
+ Philanthropy: We empower diverse groups of individuals to participate in giving.
+   
+
+  
+
+ With us, you’ll put your skills to use for innovation that powers social good. We want your ideas and your leadership. Join us. Let’s go!
+   
+
+  
+
+**You will be responsible for:**
+* Joining each and every one of your colleagues in creating an inclusive workspace;
+* Analyzing our one\\-of\\-a\\-kind philanthropic data set to support product development initiatives, including tracking short\\-term fluctuations in user behavior online, appraising the long\\-term value of donors, ideation around new machine\\-learning models, and much more;
+* Acting as an interpreter of donor data and presenter of insights to MissionWired clients;
+* Designing experiments to determine how to maximize client goals, such as philanthropic donation or email activation; and
+* Collaborating with cross\\-functional teams to support their data analytics needs.
+
+
+**Must\\-have qualifications:**
+* A passion for statistics and identifying patterns in complex data sets;
+* Experience with one or more key data analytics tools: (Python, Pandas, PySpark, SQL) to write nuanced analytic queries;
+* Attention to detail;
+* Intellectual curiosity to innovate on ways to solve data management issues; and
+* Passion, energy, and excitement for progressive and philanthropic causes and all things digital.
+
+
+**Nice\\-to\\-have qualifications:**
+* Professional experience in designing and implementing data analytic solutions to business problems;
+* Experience using business intelligence tools such as Tableau to explore data and present insights;
+* Experience working with cross\\-functional teams in a dynamic environment.
+
+
+ The salary for this role is $70,000 per year.
+   
+
+  
+
+*This position is included in a union\\-represented collective bargaining unit, and specific employment terms and conditions are subject to collective bargaining.*
+**Location**
+ We are currently working remotely with no return to office date. Applicants may reside in the following states: AZ, CT, DC, FL, GA, IL, IN, LA, MA, MD, MI, MN, MO, NE, NC, NJ, NM, OR, PA, SC, TN, TX, and VA. Due to FL legislation, MissionWired is required to participate in e\\-verify .
+   
+
+  
+
+**Benefits**
+ 100% employer\\-paid premiums for platinum\\-level medical plan on a national health care network
+   
+
+  
+
+ 100% employer\\-paid life insurance and short term disability
+   
+
+  
+
+ 50% employer\\-paid vision and dental insurance
+   
+
+  
+
+ 401(k) with 3% employer contribution
+   
+
+  
+
+ 17 vacation days in addition to 12 paid holidays, sick days, bereavement leave, and a volunteer day off.
+   
+
+  
+
+ Paid parental leave at 100% of your salary
+   
+
+  
+
+ Financial support for reproductive and transgender care
+   
+
+  
+
+ Flexible telecommute and remote work policies
+   
+
+  
+
+ Company issued Mac products for home offices
+   
+
+  
+
+ Cell phone service reimbursement, meal and ride\\-share reimbursement, and other perks available
+   
+
+  
+
+* Supporting your team on some nights and weekends as we approach high\\-volume times such as elections may be required.
+
+
+*If you feel you can do the job and are excited about this opportunity but are not sure if you meet all the qualifications, consider applying anyway. We’d love to hear from you!*","entry level"
+"https://www.linkedin.com/jobs/view/4305849386","Data Engineer","Monument Health","Rapid City, SD","**Current Employees**
+**If you are a current employee, please apply via the internal career site by logging into your** 
+ Workday Account
+ **and clicking the ""Career"" icon on your homepage.**
+**Primary Location**
+ Rapid City, SD USA
+   
+
+  
+
+**Department**
+ CS Enterprise Intelligence
+   
+
+  
+
+**Scheduled Weekly Hours**
+ 40
+   
+
+  
+
+**Starting Pay Rate Range**
+ $70,033\\.60 \\- $87,547\\.20
+   
+
+  
+
+ (Determined by the knowledge, skills, and experience of the applicant.)
+   
+
+  
+
+**Job Summary**
+ The Data Engineer is responsible for gaining in\\-depth knowledge of all internal and external data sources used by Monument Health. These engineers will use this knowledge along with an understanding of the organizations strategic priorities to manage, design, optimize, oversee, and monitor of data retrieval, storage, and transformation via data pipelines to support the delivery of structured and ad\\-hoc analytics to the organization.
+   
+
+  
+
+ Monument Health offers competitive wages and benefits on qualifying positions. Some of those benefits can include:
+   
+
+  
+
+* Supportive work culture
+* Medical, Vision and Dental Coverage
+* Retirement Plans, Health Savings Account, and Flexible Spending Account
+* Instant pay is available for qualifying positions
+* Paid Time Off Accrual Bank
+* Opportunities for growth and advancement
+* Tuition assistance/reimbursement
+* Excellent pay differentials on qualifying positions (extra pay for working evening, nights or weekends)
+* Flexible scheduling
+
+
+**Job Description**
+**Essential Functions:**
+* Architecting, creating, optimizing, and maintaining data pipelines from data acquisition, transformation, integration, to consumption.
+* Create and maintain necessary data structures and data models to support data at all stages of the data pipeline development lifecycle.
+* Apply innovative techniques, tools, and architectures to automate the most\\-common, repeatable, and tedious data preparation and integrations tasks partially or completely to minimize manual and error\\-prone processes and improve productivity.
+* Participate in data engineering team code reviews and offer recommendations regarding data architecture.
+* Maintains awareness of security policies and procedures to ensure appropriate physical access, system access, and data integrity.
+* Collaborate and support stakeholders, developers, and analysts to refine their data requirements for various data and analytics initiatives and other data consumption requirements.
+* Performs all other duties as assigned or as needed to meet the needs of the department/organization.
+* All other duties as assigned.
+
+
+**Preferred**
+**Additional Requirements**
+ Education \\- Bachelor's degree in Computer Science or Information Systems
+   
+
+  
+
+**Physical Requirements**
+ Sedentary work \\- Exerting up to 10 pounds of force occasionally and/or negligible amount of force frequently or constantly to lift, carry, push, pull or otherwise move objects, including the human body. Sedentary work involves sitting most of the time.
+   
+
+  
+
+**Job Category**
+ Information Technology
+   
+
+  
+
+**Job Family**
+ Database Design and Analysis, Information Technology
+   
+
+  
+
+**Shift**
+**Employee Type**
+ Regular
+   
+
+  
+
+ 15 Corporate Services Division
+   
+
+  
+
+**Make a difference** 
+ .
+ *Every day.*
+**Monument Health is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, or protected Veteran status.**","entry level"
+"https://www.linkedin.com/jobs/view/4308132919","Data Analytics Developer","Pinnacle Government Solutions","Arlington, VA","Pinnacle Government Solutions is a minority\\-owned small business that provides Software and Cloud Engineering Solutions for our Department of Defense and Federal Civilian agencies. We bring SME\\-level expertise and over two decades of industry knowledge and experience. We believe in getting it right for our customers and our country.
+ 
+
+
+
+  
+
+
+
+
+
+ We are looking for a Data Analytics Developer within our Intel sector advancing the national security mission through cutting edge technology. You must have a passion for keeping pace with rapidly evolving technology advancements and leveraging your knowledge on a highly collaborative team to deliver state\\-of\\-the\\-art capabilities.
+ 
+
+
+
+
+  
+
+
+
+
+
+ The Data Analytics Developer
+ 
+ designs, develops, and maintains systems for analyzing data, identifying trends, and creating data\\-driven solutions. They are responsible for developing algorithms and models to automate data analysis tasks, as well as designing and implementing data pipelines for data integration and reporting.
+ 
+
+
+
+  
+
+
+
+
+
+**Key Responsibilities** 
+
+
+
+* **Data Analysis and Modeling:** 
+ Analyzing large datasets to identify trends, correlations, and patterns. Developing and testing data models to support data analysis.
+* **System Development:** 
+ Designing, developing, and maintaining data analysis systems and pipelines.
+* **Data Management:** 
+ Ensuring data quality, implementing ETL processes, and managing data collection.
+* **Collaboration:** 
+ Working with stakeholders to define data requirements, troubleshoot issues, and implement data\\-driven solutions.
+* **Reporting and Visualization:** 
+ Creating reports and visualizations to communicate insights and inform decision\\-making.
+
+
+
+  
+
+
+
+
+
+**Skills \\& Qualifications** 
+
+
+
+* **Education and/or Experience:** 
+ Bachelor’s degree and/or 5 to 8 years of experience
+* **Security Clearance:** 
+ TS/SCI with Polygraph
+* **Technical Skills:** 
+ Strong programming skills (e.g., Python, R, SQL), experience with data visualization tools (e.g., Tableau, Power BI), and knowledge of data modeling and ETL processes.
+* **Analytical Skills:** 
+ Ability to analyze complex data sets, identify trends, and extract meaningful insights.
+* **Communication Skills:** 
+ Ability to communicate technical information clearly and concisely to both technical and non\\-technical audiences.
+* **Problem\\-Solving Skills:** 
+ Ability to identify and resolve data\\-related issues and troubleshoot system errors.
+* **Domain Knowledge:** 
+ Understanding of the specific business domain and its data requirements.","mid-senior level"
+"https://www.linkedin.com/jobs/view/4305842398","Software Engineer","eBay","Austin, TX","At eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.
+   
+
+  
+
+ Our customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.
+   
+
+  
+
+ Join a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.
+   
+
+  
+
+**About The Team And Role**
+ The
+ **Payment Operations Technology, Data Operation team** 
+ will be responsible for driving the development and oversight of sanctions compliance reporting, data analysis, and audit readiness activities across eBay. The role addresses strategic and operational questions facing the business including process automations, business sizing and impact measurement, and data operations. The role is production \\& operational intensive. Successful candidates will possess strong intellectual \\& technological curiosity, and a passion for achieving practical business impact. The individual will oversee daily sanctions screening production operations, regulatory reporting, and audit readiness.
+   
+
+  
+
+**What Will You Accomplish**
+* Lead the design, development, and maintenance of the Sanctions operations technology platform.
+* Manage daily sanctions screening process for millions of buyer and seller records, ensuring accurate processing \\& recovery where required.
+* Build close partnership with the business unit(s) to identify and explore areas of impactful and operational opportunities to help drive operational efficiencies \\& revenue.
+* Establish controls \\& monitoring framework for business initiatives and ensure business unit is alerted in case of issue.
+* Own production \\& on\\-call functionality for BU’s Data operations team support.
+* Support production, operational, product and technology support for Regulatory, Sanctions \\& collections.
+* Oversee essential reporting requirements, including BCL (Luxembourg Central Bank) submissions, CESOP reporting, and Suspicious Activity Reports (SARs).
+* Manage, monitor, and maintain existing and new operations \\& production processes.
+* Post\\-launch monitoring: measure performance of features and programs post launch and report back to product and business teams.
+* Ensure continuity, resiliency, and recovery plans are in place to safeguard critical data operations processes.
+
+
+**What Will You Bring**
+* Intellectual curiosity, passion for problem\\-solving, and comfort with ambiguity.
+* Excellent technical skills for production, operations and process development, especially SQL, Hadoop, Spark SQL, Python scripting, Jupyter and UC4\\.
+* Experienced in handling big data (Hadoop, Oracle, MySql etc.) and agile methodologies.
+* Ability to translate business requirements into software solutions.
+* Proficient in data visualization and Self\\-serve tools like Tableau.
+* A proven track record of end\\-to\\-end production and operational functions\\- problem definition, collating the required information, converting opportunities into technical solutions, synthesizing and communicating a compelling argument and influencing partners to act.
+* Capable to work independently while acting as part of a Payment Operations Technology teams.
+* Experience in flawless operations, high intense production environment and proven knowledge in SQL and Python programming language is mandatory.
+
+
+ The base pay range for this position is expected in the range below:
+   
+
+  
+
+ $78,400 \\- $139,400
+   
+
+  
+
+ Base pay offered may vary depending on multiple individualized factors, including location, skills, and experience. The total compensation package for this position may also include other elements, including a target bonus and restricted stock units (as applicable) in addition to a full range of medical, financial, and/or other benefits (including 401(k) eligibility and various paid time off benefits, such as PTO and parental leave). Details of participation in these benefit plans will be provided if an employee receives an offer of employment.
+   
+
+  
+
+ If hired, employees will be in an “at\\-will position” and the Company reserves the right to modify base salary (as well as any other discretionary payment or compensation program) at any time, including for reasons related to individual performance, Company or individual department/team performance, and market factors.
+   
+
+  
+
+ Please see the Talent Privacy Notice for information regarding how eBay handles your personal data collected when you use the eBay Careers website or apply for a job with eBay.
+   
+
+  
+
+ eBay is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, sexual orientation, gender identity, veteran status, and disability, or other legally protected status. If you have a need that requires accommodation, please contact us at talent@ebay.com. We will make every effort to respond to your request for accommodation as soon as possible. View our accessibility statement to learn more about eBay's commitment to ensuring digital accessibility for people with disabilities. It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.
+   
+
+  
+
+ The eBay Jobs website uses cookies to enhance your experience. By continuing to browse the site, you agree to our use of cookies. Visit our Privacy Center for more information.","mid-senior level"
+"https://www.linkedin.com/jobs/view/4308138903","Software Engineer","Microsoft","Redmond, WA","The Cloud \\& AI organization accelerates Microsoft’s mission and bold ambitions to ensure that our company and industry is securing digital technology platforms, devices, and clouds in our customers’ heterogeneous environments, as well as ensuring the security of our own internal estate. Our culture is centered on embracing a growth mindset, a theme of inspiring excellence, and encouraging teams and leaders to bring their best each day. In doing so, we create life\\-changing innovations that impact billions of lives around the world. Microsoft is one of the largest enterprise service companies in the world.
+   
+
+  
+
+ Security is one of Microsoft’s highest priorities in a world increasingly shaped by digital threats, regulatory demands, and complex environments. The Microsoft Security organization is committed to making the world safer by delivering end\\-to\\-end, simplified solutions that empower users, customers, and developers alike.
+   
+
+  
+
+ The M365 Security Protect team secures the world’s most widely used productivity applications—Office, Exchange, SharePoint, and Teams. Within this team, our Data Platform group builds and operates scalable systems to fetch, store, process, and serve data that powers security views and notifications across Microsoft 365\\.
+   
+
+  
+
+ We are looking for a Software Engineer who is passionate about building reliable cloud services and eager to grow in a fast\\-paced, security\\-first environment. This is an excellent opportunity to work on foundational data infrastructure that directly supports threat detection, incident response, and customer protection.
+   
+
+  
+
+ Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.
+   
+
+  
+
+ In alignment with our Microsoft values, we are committed to cultivating an inclusive work environment for all employees to positively impact our culture every day.
+   
+
+  
+
+**Responsibilities**
+* Designs, implements, and maintains cloud\\-based data pipelines and services that support security analytics and notifications.
+* Collaborates with senior engineers to ensure data quality, scalability, and performance across the platform.
+* Contributes to the development of internal tools and automation that improve engineering efficiency and system reliability.
+* Participates in code reviews, testing, and deployment processes to ensure high\\-quality deliverables.
+* Learns and applies secure coding practices and contributes to the team’s mission of “security above all else.”
+* Engages with cross\\-functional teams to understand requirements and deliver data solutions that meet security needs.
+
+
+**Qualifications**
+**Required Qualifications**
+* Bachelor's Degree in Computer Science, or related technical discipline.
++ OR equivalent experience.
+
+* Proven experience coding in languages including, but not limited to, C, C\\+\\+, C\\#, Java, JavaScript, or Python.
+* Familiarity with cloud platforms (e.g., Azure, AWS, GCP) and distributed systems.
+* Understanding of data structures, algorithms, and software engineering fundamentals.
+
+
+**Additional Requirements**
+ The ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings:
+   
+
+  
+
+* Microsoft Cloud Background Check:This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter.
+
+
+**Preferred Qualifications**
+* Bachelor's Degree in Computer Science
++ OR related technical field AND 1\\+ year(s) technical engineering experience with coding in languages including, but not limited to, C, C\\+\\+, C\\#, Java, JavaScript, OR Python.
++ OR Master's Degree in Computer Science or related technical field with proven experience coding in languages including, but not limited to, C, C\\+\\+, C\\#, Java, JavaScript, or Python
++ OR equivalent experience.
+
+* Interest in cybersecurity and secure software development practices.
+* 1 \\+ years of experience with cloudservices and DevOps tools.
+* Passion for learning and growing in a collaborative team environment.
+
+
+ Software Engineering IC2 \\- The typical base pay range for this role across the U.S. is USD $84,200 \\- $165,200 per year. There is a different range applicable to specific work locations, within the San Francisco Bay area and New York City metropolitan area, and the base pay range for this role in those locations is USD $109,000 \\- $180,400 per year.
+   
+
+  
+
+ Certain roles may be eligible for benefits and other compensation. Find additional benefits and pay information here: https://careers.microsoft.com/us/en/us\\-corporate\\-pay
+   
+
+  
+
+ Microsoft will accept applications for the role until October 6, 2025\\.
+   
+
+  
+
+ \\#IC2SWE
+   
+
+  
+
+ \\#EiP
+   
+
+  
+
+ Microsoft is an equal opportunity employer. Consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.","not applicable"
+"https://www.linkedin.com/jobs/view/4308138901","Machine Learning Engineer","Microsoft","Redmond, WA","Are you excited by the challenge of building intelligent, autonomous systems that deliver real\\-world impact? The Commerce Risk Analytics team at Microsoft is looking for a machine learning engineer to design, develop, and continuously improve a multi\\-agent AI Risk system that enables autonomous risk transaction review and decision\\-making. You’ll be working at the intersection of large language models (LLMs), applied machine learning, and platform integration—building solutions that power scenarios from fraud prevention to customer support automation.
+   
+
+  
+
+ We’re hiring across several focus areas, and your role will align with your expertise and interests:
+   
+
+  
+
+* Autonomous Agent Development for Risk Decision – building LLM\\-based decision\\-making agents and advancing a multi\\-agent risk system
+* AI Integration \\& MLOps – enabling scalable infrastructure, data pipelines, and operational excellence
+* Quality \\& Integration – focusing on agent behavior testing, UI/UX integration, and platform reliability
+
+
+**Responsibilities**
+ As a machine learning engineer, you will:
+   
+
+  
+
+* Design and optimize multi\\-agent AI architectures that enable autonomous risk assessment and decision\\-making at scale, leveraging agent collaboration to reduce huma manual effort and minimize false positive rates.
+* Implement agentic ML infrastructure that automates the full model development lifecycle enabling continuous learning, adaptive optimization, and scalable risk decisioning.
+* Build and evolve AI\\-driven solutions that improve the accuracy, speed, and adaptability of fraud detection across a wide range of Commerce scenarios.
+* Develop infrastructure and MLOps pipelines to support continuous training, deployment, and monitoring
+* Conduct rigorous behavior testing and validation, focusing on performance, safety, and real\\-world edge cases
+* Integrate AI agents with Azure AI services, Microsoft Graph API, Power Platform, and internal systems
+* Apply best practices in security, compliance, and privacy to all aspects of agent development
+* Partner closely with product managers, engineers, and data scientists to translate complex business challenges into scalable technical solutions, ensuring alignment and impact across stakeholders
+
+
+**Qualifications**
+**Required Qualifications:**
+* Bachelor's Degree in Statistics, Econometrics, Computer Science, Electrical or Computer Engineering, or related field AND 2\\+ years related experience (e.g., statistics, predictive analytics, research)
++ OR Master's Degree in Statistics, Econometrics, Computer Science, Electrical or Computer Engineering, or related field AND 1\\+ year(s) related experience (e.g., statistics, predictive analytics, research)
++ OR Doctorate in Statistics, Econometrics, Computer Science, Electrical or Computer Engineering, or related field
++ OR equivalent experience.
+
+* 3\\+ years of experience in software engineering, data science, or machine learning
+* 2\\+ years experience with LLMs, prompt engineering, and the OpenAI API
+* 2\\+ years experience with Azure services, cloud infrastructure, and CI/CD pipelines
+
+
+**Preferred Qualifications**
+* Experience working with multi\\-agent frameworks such as AutoGen, Semantic Kernal and Langchain.
+* Knowledge of MLOps practices, including containerization, infrastructure\\-as\\-code, and monitoring
+* Exposure to Power Platform, Microsoft Graph API, or enterprise integration technologies
+* Experience debugging skills and a solid understanding of security and data protection principles
+* Ability to communicate technical concepts effectively with both technical and non\\-technical stakeholders
+* Proficiency in Python for development and scripting
+
+
+ Applied Sciences IC3 \\- The typical base pay range for this role across the U.S. is USD $100,600 \\- $199,000 per year. There is a different range applicable to specific work locations, within the San Francisco Bay area and New York City metropolitan area, and the base pay range for this role in those locations is USD $131,400 \\- $215,400 per year.
+   
+
+  
+
+ Certain roles may be eligible for benefits and other compensation. Find additional benefits and pay information here: https://careers.microsoft.com/us/en/us\\-corporate\\-pay
+   
+
+  
+
+ Microsoft will accept applications for the role until October 13th, 2025
+   
+
+  
+
+**Other Requirements**
+ Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include but are not limited to the following specialized security screenings: Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter.
+   
+
+  
+
+ Microsoft is an equal opportunity employer. Consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.","not applicable"
+"https://www.linkedin.com/jobs/view/4306692156","Cloud Data Engineer - Snowflake","TalentAlly","Lees Summit, MO","G.E.H.A (Government Employees Health Association, Inc.) is a nonprofit member association that provides medical and dental benefits to more than two million federal employees and retirees, military retirees and their families. We celebrate diversity and are committed to creating an inclusive environment for all employees.
+   
+
+  
+
+ G.E.H.A has one mission: To empower federal workers to be healthy and well.
+   
+
+  
+
+ Offering one of the largest medical and dental benefit provider networks available to federal employees in the United States, G.E.H.A empowers health and wellness by meeting its members where they are, when they need care. We serve our members with products they value and a personalized customer experience, sustained by a nimble and efficient organization.
+   
+
+  
+
+ As a Cloud Data Engineer, you will be developing and maintaining scalable data pipelines in Snowflake. You will collaborate with business data analysts, data architects, data scientists, project managers, and G.E.H.A's business stakeholders to build solutions that ensure seamless data flow and enable actionable insights. This role supports data development and maintenance efforts of the Data \\& Analytics activities and initiatives in alignment with the Enterprise Data strategy, policies, and organizational goals. This role will work in a cloud\\-native environment to design and optimize data solutions that improve performance, scalability, and efficiency of our data and analytics offerings.
+   
+
+  
+
+**Skills**
+**Key Responsibilities:**
+* Proven experience as a Cloud Data Engineer or similar role, specifically working with Azure or Snowflake.
+* Design and Build Data Pipelines: Develop scalable, efficient, and secure ETL/ELT pipelines for ingesting, processing, storing, and consuming large datasets in Snowflake.
+* Cloud Data Architecture: Design and implement data solutions on Snowflake to support analytics, business intelligence, and data science initiatives.
+* Data Integration \\& Transformation: Use enterprise approved ETL/ELT tools and methodologies to automate data ingestion and transformation from various sources into Snowflake.
+* Collaborate with Stakeholders: Work closely with cross\\-functional teams, including business data analysts, data architects, data scientists, project managers and business units, to define data requirements and implement data solutions that support documented and approved business goals.
+* With minimal guidance, work independently on assigned stories/tasks and deploy data solution through environments to Production using the approved Change Management process.
+* Data Security, Governance \\& Compliance: Implement data solutions that follow best practices and the company policies to ensure data privacy, security, and compliance with relevant governance in the cloud environment.
+* Automation and Monitoring: Implement and manage automated monitoring and logging for all data workflows and pipelines to ensure data integrity and operational reliability.
+* Troubleshooting and Support: Troubleshoot issues with data pipelines, data integrity, and platform performance, providing timely resolutions to business\\-critical data needs.
+* Ensure that all deliverables follow the company Change Management process.
+* Participate in scrum, backlog grooming, refinement, planning and review sessions.
+* Other duties as assigned.
+
+
+**Required Qualifications**
+* Requires 3\\-5 years of relevant technical or business work experience with demonstrated experience within healthcare industry or data and analytics.
+* Bachelor's degree in computer science, Information Technology, Data Engineering, Mathematics, or a related field or comparable experience.
+* Direct experience with Snowflake (preferred) or an equivalent cloud data platform.
+* Proficiency in SQL and valuable experience with writing complex queries, stored procedures, and managing large datasets.
+* Solid understanding of Data Warehouse concepts, database management systems (SQL and NoSQL), and ETL/ELT frameworks, ideally in Snowflake or equivalent data platform.
+* Competent SQL skills or equivalent such Python, R, Apache Spark etc.
+* Familiarity with DevOps practices, Repos, Snowflake, and CI/CD pipelines for data solutions.
+* Ability to work in a collaborative, cross\\-functional team environment and communicate complex technical concepts to non\\-technical stakeholders.
+* Good understanding of Agile and Scrum processes.
+* Experience \\& eagerness for problem solving and root cause analysis for any issues.
+* Enthusiastic to learn innovative technologies \\& techniques; eagerness towards understanding data \\& business processes to contribute \\& have influence.
+* Ability to work collaboratively in a team environment.
+* Prior knowledge or willingness to learn healthcare and analytics industries
+
+
+**Preferred Qualifications**
+* Preferred fundamentals certification in Snowflake or comparable cloud platform or technology.
+
+
+ Work\\-at\\-home requirements
+   
+
+  
+
+* Must have the ability to provide a non\\-cellular High Speed Internet Service such as Fiber, DSL, or cable Modems for a home office.
+* A minimum standard speed for optimal performance of 30x5 (30mpbs download x 5mpbs upload) is required.
+* Latency (ping) response time lower than 80 ms
+* Hotspots, satellite and wireless internet service is NOT allowed for this role.
+* A dedicated space lacking ongoing interruptions to protect member PHI / HIPAA information
+
+
+ How we value you
+   
+
+  
+
+* Competitive pay/salary ranges
+* Incentive plan
+* Health/Vision/Dental benefits effective day one
+* 401(k) retirement plan: company match \\- dollar for dollar up to 4% employee contribution (pretax or Roth options) plus a 6% annual company contribution
+* Robust employee well\\-being program
+* Paid Time Off
+* Personal Community Enrichment Time
+* Company\\-provided Basic Life and AD\\&D
+* Company\\-provided Short\\-Term \\& Long\\-Term Disability
+* Tuition Assistance Program
+
+
+ While this is a remote opportunity, at this time G.E.H.A does not hire employees from U.S. territories or the following states: Alaska, Hawaii, California, Washington, Oregon, Colorado, Wyoming, Montana, New York, Connecticut, Vermont, Pennsylvania, Maine.
+   
+
+  
+
+ Please note that the salary information is a general guideline only. G.E.H.A considers factors such as (but not limited to) scope and responsibilities of the position, candidate's work experience, education/training, key skills, internal peer equity, as well as, market and business considerations when extending an offer.
+   
+
+  
+
+ The hiring range for this position is $94,039 \\- $118,965 USD. At G.E.H.A, the current maximum salary for this role is $132,561 USD. While initial compensation may vary based on experience and qualifications, there is a path to work toward this top rate through performance and continued growth within the organization.
+   
+
+  
+
+ G.E.H.A is an Equal Opportunity Employer, which means we will not discriminate against any individual based on sex, race, color, national origin, disability, religion, age, military status, genetic information, veteran status, pregnancy, marital status, gender identity, and sexual orientation, as well as all other characteristics and qualities protected by federal, state, or local law. G.E.H.A will not discriminate against employees or applicants because they have inquired about, discussed, or disclosed their compensation or the compensation of another employee or applicant. We are committed to creating an inclusive environment for all employees. Our diversity drives innovation deepens connections and strengthens our organization.
+   
+
+  
+
+ G.E.H.A is headquartered in Lee's Summit, Missouri, in the Kansas City area. We recognize the importance of balance and flexibility and offer hybrid and work\\-from\\-home options for many of our roles.
+   
+
+  
+
+ PDN\\-9f88e000\\-9af7\\-42ae\\-8014\\-aa2140bc6d23","mid-senior level"
+"https://www.linkedin.com/jobs/view/4306674881","Sr. Data Analyst","Mazda North American Operations","","**Job Description**
+ The Senior Data Analyst is responsible for interpreting highly complex data, formulating reports and making recommendations based upon the research and analysis findings.
+   
+
+  
+
+ The individual in this role supports a variety of data\\-related projects and tasks; including but not limited to, requirements gathering, research, data wrangling designed to convert raw data into actionable business insights, data cleansing, data analysis and data visualization to create dashboards and reporting that drive data\\-driven decisions.
+   
+
+  
+
+ The Senior Data Analyst partners with stakeholders across the organization to leverage data in creating business solutions. The focus of this role is on managing large and diverse datasets, conducting exploratory data analysis, identify trends, patterns, determining impacts and attributes and finding opportunities.
+   
+
+  
+
+ Additionally, this role will be part of the driving force that will help analytics grow at Mazda by innovating processes and methodologies.
+   
+
+  
+
+**Major Areas Of Responsibility (MAR)**
+ Data Analysis \\- 40%
+   
+
+  
+
+* Leads the end\\-to\\-end data analysis process, including data collection, cleaning, exploration, visualization, and interpretation.
+* Develops and maintains dashboards and reports to provide ongoing insights into key performance indicators and business metrics.
+* Uses high\\-level statistical techniques to interpret data, analyze results and provide ongoing reports to business stakeholders.
+* Evaluates, analyzes, and interprets trends in data to provide relevant conclusions and recommendations to business stakeholders.
+* Acquires data from primary or secondary data sources and works with the IT Data Engineering team to maintain databases/data systems.
+* Acts as an SME in analyzed data and answer questions from business units and leadership.
+
+
+ Data Visualizations \\- 30%
+   
+
+  
+
+* Produces data visualizations to communicate findings in an accessible manner to internal customers.
+* Analyzes data patterns and trends and make recommendations that will drive business impact.
+* Iterates on new features and improvements to meet changing business requirements.
+* Streamlines the process of dashboard updates to ensure business users always have access to the most current information and insights.
+
+
+ Data Analytics Liaison \\- 10%
+   
+
+  
+
+* Provides guidance and support to internal clients, helping them navigate data\\-related issues while fostering a culture of data literacy.
+* Leads discussions with business stakeholders for requirements gathering and offer data\\-driven solutions.
+* Educates internal customers on the critical nature of Data Analytics and how it can help, assist, support and provide a large value add to their business, objectives, and goals.
+
+
+ Project Management \\- 10%
+   
+
+  
+
+* Gathers requirements from business partners, formulates detailed project plans, and guarantees fulfillment of all corresponding project expectations.
+* Provides timely updates on project progress.
+* Identifies project/data obstacles/challenges and proposes strategies to address.
+* Oversees multiple projects simultaneously.
+
+
+ Process Improvement \\- 10%
+   
+
+  
+
+* Stays current with advancements in data analysis techniques and tools, applying them to enhance our analytical capabilities.
+* Communicates project learnings to the rest of the team.
+* Finds innovative ways to produce data insights.
+
+
+**Education**
+**Qualifications and Other Requirements:**
+* Bachelor’s degree in Math, Statistics, Computer Science, Management Information System, or Economics (and econometrics) or related field of study, or equivalent combination of education, training, and work experience.
+* Master’s degree preferred.
+
+
+**Experience**
+* Minimum of five (5\\) years’ work experience performing advanced data analysis, including data mining, data systems maintenance, and the use of statistical tools to interpret data sets.
+
+
+**Knowledge/Skills/Abilities**
+* Proven knowledge and ability with visual analytics development and presentation.
+* Proficient in SQL with working proficiency in writing complex queries, extracting, and transforming data.
+* Proficient in data visualization tools such as PowerBI, Tableau, and Looker, adept at creating interactive dashboards, visualizing complex datasets, and deriving actionable insights.
+* Proficient in at least one programming language, such as Python or R, for data analysis and manipulation.
+* Ability to work cross\\-functionally, manage obstacles, and balance business needs against technical constraints.
+* Ability to transform large and complex datasets into meaningful insights and tools easily and readily understood by internal customers.
+* Ability to wrangle raw data into impactful business insights.
+* Strong data analytical and interpretive skills are required. Must be able to translate business inquiries into analyses and present clear, actionable recommendations.
+* Attention to detail for catching data discrepancies.
+* Working knowledge of statistics and probability in an applied setting.
+* Ability to produce timely deliverables and manage multiple and shifting priorities in a dynamic environment.
+* Proficiency with computer applications, including Microsoft Excel, Word, Project, PowerPoint and Outlook, as well as the ability to learn and effectively utilize other software applications used within the Company.
+* Well\\-balanced interpersonal skills; Must be able to establish and maintain effective working relationships with all levels of management, employees, customers, and outside vendors; Must be able to clearly and effectively communicate both orally and in writing, using good grammatical form, both in general correspondence, as well as on technical issues.
+* Strong presentation skills.
+* Must be analytical and a problem solver with the ability to identify problems and/or cause\\-effect relationships; identify key issues; secure relevant information from all appropriate sources; identify possible root causes of problems and develop and implement corrective actions for resolution.
+* Strong organizational skills and the ability to prioritize tasks are essential. Must be able to establish a course of action for self and others/department to accomplish specific goals; must plan and prioritize proper assignments of personnel and/or appropriate allocation of resources.
+* Self\\-motivated and capable of working with minimal supervision and/or direction.
+
+
+**Travel**
+*May be required 1\\-2 times per year*
+**We Support Remote Work In The Following States**
+ Alabama, Arizona, California, Colorado, Connecticut, Delaware, District of Columbia, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Kansas, Kentucky, Louisiana, Maryland, Massachusetts, Michigan, Minnesota, Missouri, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, Tennessee, Texas, Utah, Virginia, Washington, Wisconsin
+   
+
+  
+
+**Pay Range**
+ $83,300\\.00 \\- $120,800\\.00
+   
+
+  
+
+*Salary to be determined by education, experience, knowledge, skills and abilities of the applicant, internal equity, and alignment with market data.*","mid-senior level"
+"https://www.linkedin.com/jobs/view/4305841617","Software Engineer, Integrations","Clay","","**About Clay**
+ Clay is a creative tool for growth. Our mission is to help businesses grow — without huge investments in tooling or manual labor. We’re already helping over 100,000 people grow their business with Clay. From local pizza shops to enterprises like Anthropic and Notion, our tool lets you instantly translate any idea that you have for growing your company into reality.
+   
+
+  
+
+ We believe that modern GTM teams win by finding
+ *GTM alpha* 
+ —a unique competitive edge powered by data, experimentation, and automation. Clay is the platform they use to uncover hidden signals, build custom plays, and launch faster than their competitors. We’re looking for sharp, low\\-ego people to help teams find their GTM alpha.
+   
+
+  
+
+*Why is Clay the best place to work?*
+* Customers love the product (100K\\+ users and growing)
+* We’re growing a lot (6x YoY last year, and 10x YoY the two years before that)
+* Incredible culture (our customers keep applying to work here)
+* Well\\-resourced \\- We raised a $100M Series C in 2025 at a $3\\.1B valuation and are backed by world\\-class investors like Capital G (Google), Sequoia and Meritech
+
+
+ Read more about why people love working at Clay here and explore our wall of love to learn more about the product.
+   
+
+  
+
+**Software Engineer, Integrations @ Clay**
+ As a software engineer on our integrations team, you’ll play a key role in building and scaling the data enrichments that are a cornerstone of our product. You’ll become an expert in building great 3rd party integrations, contributing to best practices around designing, developing, and maintaining our 100\\+ integrations that customers rely on every day. You’ll improve the scalability and functionality of our integration system, including our authorization, rate limiting and queueing systems for integrations. Putting on your product hat, you’ll also have the opportunity to improve the fullstack data enrichment user experience for our customers.
+   
+
+  
+
+ This is an opportunity to simultaneously ship code daily that directly unlocks new customer use cases, shape the architecture of our integrations system, and support other engineers on the team.
+   
+
+  
+
+**What You’ll Do**
+* Design \\& ship new integrations with data providers who range from well\\-documented REST APIs to hand\\-rolled custom data solutions, webhooks and SQL databases.
+* Improve the integrations framework and infrastructure. You’ll improve the full\\-stack integrations system components such as account authorization, rate limiting and request queueing, and contribute to new ones like a data file ingestion and serving system. You’ll also contribute to ways in which we can make it easier to build and maintain new integrations.
+* Work cross\\-functionally with other teams in engineering, partnerships, customer success, and sales to understand customer needs, respond to feedback, and measure success. This includes explaining technical concepts to both other engineers and nontechnical folks at the company.
+* Debug and improve existing integrations. You’ll take ownership of integrations from start to finish, including iterating on feedback and maintaining their evolution over time.
+* Partner with product managers and customers to design and deliver new customer\\-facing features. You’ll help shape custom user experiences tailored to integrations, drawing on strong product sense and the ability to translate customer feedback and use cases into practical solutions.
+
+
+ What You'll Bring
+   
+
+  
+
+* You have experience with APIs, either building integrations with 3rd party APIs or building public APIs of your own.
+* You have a proven track record of execution. You have 2\\+ years of hands on software engineering experience building world\\-class products and shipping quickly.
+* You are an empathetic communicator. You express nuanced ideas clearly at different levels of abstraction for different audiences. In disagreements, you prioritize curiosity over confrontation, making sure everyone feels heard and understood. You enjoy mentoring peers and providing feedback on their code \\& technical designs.
+* You’re familiar with our current tech stack or can learn unfamiliar technologies quickly. For integrations the primary stack is Typescript, Node.js, AWS Lambda, SQL, and React.
+* Bonus: You have experience designing scalable distributed systems. You’re experienced with distributed systems principles like rate limiting and queueing, serverless computing, and data ingestion and serving.
+* Bonus: you understand sales and marketing workflows and are familiar with sales and marketing APIs.","entry level"
+"https://www.linkedin.com/jobs/view/4258446389","Senior Data Engineer (Python, SQL, AWS)","Capital One","Plano, TX","Do you love building and pioneering in the technology space? Do you enjoy solving complex business problems in a fast\\-paced, collaborative, inclusive, and iterative delivery environment? At Capital One, you'll be part of a big group of makers, breakers, doers and disruptors, who solve real problems and meet real customer needs. We are seeking Data Engineers who are passionate about marrying data with emerging technologies. As a Capital One Data Engineer, you’ll have the opportunity to be on the forefront of driving a major transformation within Capital One.
+   
+
+  
+
+****What You’ll Do:****
+* Collaborate with and across Agile teams to design, develop, test, implement, and support technical solutions in full\\-stack development tools and technologies
+* Work with a team of developers with deep experience in machine learning, distributed microservices, and full stack systems
+* Utilize programming languages like Java, Scala, Python and Open Source RDBMS and NoSQL databases and Cloud based data warehousing services such as Redshift and Snowflake
+* Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal \\& external technology communities, and mentoring other members of the engineering community
+* Collaborate with digital product managers, and deliver robust cloud\\-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment
+* Perform unit tests and conduct reviews with other team members to make sure your code is rigorously designed, elegantly coded, and effectively tuned for performance
+
+
+****Basic Qualifications:****
+* Bachelor’s Degree
+* At least 3 years of experience in application development (Internship experience does not apply)
+* At least 1 year of experience in big data technologies
+
+
+****Preferred Qualifications:****
+* 5\\+ years of experience in application development including Python, SQL, Scala, or Java
+* 2\\+ years of experience with a public cloud (AWS, Microsoft Azure, Google Cloud)
+* 3\\+ years experience with Distributed data/computing tools (MapReduce, Hadoop, Hive, EMR, Kafka, Spark, Gurobi, or MySQL)
+* 2\\+ year experience working on real\\-time data and streaming applications
+* 2\\+ years of experience with NoSQL implementation (Mongo, Cassandra)
+* 2\\+ years of data warehousing experience (Redshift or Snowflake)
+* 3\\+ years of experience with UNIX/Linux including basic commands and shell scripting
+* 2\\+ years of experience with Agile engineering practices
+
+
+***At this time, Capital One will not sponsor a new applicant for employment authorization, or offer any immigration related support for this position (i.e. H1B, F\\-1 OPT, F\\-1 STEM OPT, F\\-1 CPT, J\\-1, TN, or another type of work authorization).***
+ The minimum and maximum full\\-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part\\-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.
+   
+
+  
+
+ Plano, TX: $144,200 \\- $164,600 for Senior Data Engineer
+   
+
+  
+
+ Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter.
+   
+
+  
+
+ This role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI). Incentives could be discretionary or non discretionary depending on the plan.
+   
+
+  
+
+ Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well\\-being. Learn more at the Capital One Careers website. Eligibility varies based on full or part\\-time status, exempt or non\\-exempt status, and management level.
+   
+
+  
+
+ This role is expected to accept applications for a minimum of 5 business days.
+   
+
+  
+
+ No agencies please. Capital One is an equal opportunity employer (EOE, including disability/vet) committed to non\\-discrimination in compliance with applicable federal, state, and local laws. Capital One promotes a drug\\-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23\\-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901\\-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.
+   
+
+  
+
+ If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1\\-800\\-304\\-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.
+   
+
+  
+
+ For technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com
+   
+
+  
+
+ Capital One does not provide, endorse nor guarantee and is not liable for third\\-party products, services, educational tools or other information available through this site.
+   
+
+  
+
+ Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).","mid-senior level"
+"https://www.linkedin.com/jobs/view/4305814537","Data Analyst","East West Bank","Pasadena, CA","**Introduction**
+ Since 1973, East West Bank has served as a pathway to success. With over 110 locations across the U.S. and Asia, we are the premier financial bridge between the East and West. Our teams of experienced, multi\\-cultural professionals help guide businesses and community members on both sides of the Pacific looking to explore new markets and create new opportunities, and our sustained growth and expertise in industries like real estate, entertainment and media, private equity and venture capital, and high\\-tech help build sustainable businesses and expand our associates’ potential for career advancement.
+   
+
+  
+
+ Headquartered in California, East West Bank (Nasdaq: EWBC) is a top\\-performing commercial bank with a strong foundation, an enterprising spirit and a commitment to absolute integrity. East West Bank gives people the confidence to reach further.
+   
+
+  
+
+**Overview**
+ The Data Analyst will develop data analytics and business intelligence to improve the quality of control testing and increase the risk, control, and regulatory coverage across the enterprise to support internal audit activities in accordance with the Standards for the Professional Practice of Internal Auditing. Responsibilities will include gathering, manipulating, and synthesizing data and other relevant information to draw conclusions and make recommendations.
+   
+
+  
+
+**Responsibilities**
+* Build and execute data analytics to support audit objectives, using tool such as Excel, SQL, Power BI, Python and others.
+* Query and analyze small and large data sets to discover and analyze patterns, identify anomalies, profile and reveal relationships from banking data.
+* Assist with the day\\-to\\-day management, maintenance, and enhancement of existing Power BI dashboards, ensuring accuracy, usability, and timely updates for audit and business stakeholders.
+* Assist with data analytics projects and gather and analyze complex and large amounts of data for supporting ongoing audit projects, investigations, management requests, and special projects
+* Extract and collect large data sets from various sources and formats.
+* Interpret and analyze results from data extractions to identifying patterns and trends.
+* Evaluate internal controls and identify deficiencies through the testing of data source, systems, and processes.
+* Define new data collection and analysis processes.
+* Test and validate that key assumptions, data sources, and procedures utilized in measuring and monitoring risk and internal controls can be relied upon on an ongoing basis; and, in the case of transaction testing, to assess that controls are working as intended.
+* Test adherence with Bank’s policies and controls, as well as regulatory requirements.
+* Maintain an understanding of business operations, operational risks and regulatory requirements.
+* Anticipate changes in the internal and external environment and adapt the testing program accordingly.
+* Validate the integrity of data, including data extraction, storage, manipulation, processing and analysis.
+* Provides recommendations to streamline tasks and create a more efficient working environment.
+* Report results back to management and relevant team members.
+* Product knowledge in
++ Loans
++ Deposits
++ Banking operations
+
+
+**Qualifications**
+* Bachelor’s degree in information systems, statistics, business analytics, math, economics, computer engineering, decision sciences or data sciences or related field with relevant coursework.
+* Strong computing skills with at least one of the following: Python, R, SQL with a strong interest to learn.
+* Proficiency with Excel.
+* Quantitative, analytical, process oriented and troubleshooting skills.
+* Excellent analytical and problem solving skills.
+* Expert technical documentation skills.
+* Analytical and problem solving skills including troubleshooting.
+* Able to work under pressure while managing competing demands and tight deadlines.
+* Well organized with meticulous attention to detail.
+* Can\\-do attitude, self\\-motivated and strong work ethic.
+* Self\\-driven to identify areas of improvement.
+* Must be team\\-oriented with experience working on interdepartmental team projects.
+
+
+**Compensation**
+ The base pay range for this position is USD $69,000\\.00/Yr. \\- USD $100,000\\.00/Yr. Exact offers will be determined based on job\\-related knowledge, skills, experience, and location.","entry level"
+"https://www.linkedin.com/jobs/view/4306683127","Backend Software Engineer","INFI","Chicago, IL","**About INFI** 
+
+
+
+
+ INFI is an innovative provider of restaurant technology solutions, enabling food service businesses to enhance their customer experience, streamline operations, and boost loyalty. Our offerings include advanced data analytics, self\\-ordering solutions, custom mobile applications, and marketing tools designed specifically for the restaurant industry.
+ 
+
+
+
+**Role Overview** 
+
+
+
+
+ We are seeking a skilled and motivated
+ **Backend Developer** 
+ to join our dynamic team. The ideal candidate will have at least 4 years of experience working with
+ **microservices** 
+ cloud infrastructure and backend technologies, including Kubernetes, Docker, and cloud databases. You will design, develop, and maintain backend services, ensuring they are robust, scalable, and optimized for performance.
+ 
+
+
+
+**Key Responsibilities** 
+
+
+
+* Design, develop, and maintain RESTful APIs to support front\\-end and third\\-party integrations.
+* Collaborate with cross\\-functional teams to define, design, and ship new features.
+* Build and manage scalable cloud\\-based backend systems using
+ **Kubernetes** 
+ and
+ **Docker** 
+ .
+* Write efficient and maintainable code in
+ **Golang** 
+ .
+* Design and manage SQL and cloud databases, with a focus on
+ **PostgreSQL** 
+ and cloud database solutions.
+* Implement best practices for testing, performance optimization, and security.
+* Monitor, troubleshoot, and resolve issues in production systems.
+
+
+
+**Required Qualifications** 
+
+
+
+* **4\\+ years of experience** 
+ in
+ **microservices** 
+ and cloud infrastructure.
+* Proficiency in
+ **Golang** 
+ programming language.
+* Hands\\-on experience with
+ **Kubernetes** 
+ and
+ **Docker** 
+ for containerized application development and deployment.
+* Strong knowledge of database design and management using
+ **SQL** 
+ and
+ **PostgreSQL** 
+ .
+* Experience with cloud database technologies, including
+ **Aliyun Cloud Services** 
+ or similar platforms.
+* Expertise in designing and implementing
+ **RESTful APIs** 
+ .
+* Strong problem\\-solving skills and attention to detail.
+* Excellent communication and teamwork skills.
+
+
+
+**Preferred Qualifications** 
+
+
+
+* Familiarity with CI/CD pipelines and DevOps practices.
+* Experience with distributed systems and microservices architecture.
+* Knowledge of security practices in backend development.
+* Prior experience working in Agile environments.
+
+
+
+**What We Offer** 
+
+
+
+* Competitive salary and performance\\-based incentives
+* Flexible work environment, including hybrid options
+* Professional growth opportunities within a fast\\-paced, high\\-impact team
+* Equity Grant
+
+
+
+**Why Join INFI?** 
+
+
+
+
+ At INFI, you’ll have the opportunity to shape the future of restaurant technology and directly influence our growth. If you’re data\\-driven, thrive in a collaborative environment, and are passionate about scaling innovative products, we’d love to meet you.","mid-senior level"
+"https://www.linkedin.com/jobs/view/4305842397","Software Development Engineer - Graphics","AMD","Orlando, FL","**WHAT YOU DO AT AMD CHANGES EVERYTHING**
+ We care deeply about transforming lives with AMD technology to enrich our industry, our communities, and the world. Our mission is to build great products that accelerate next\\-generation computing experiences \\- the building blocks for the data center, artificial intelligence, PCs, gaming and embedded. Underpinning our mission is the AMD culture. We push the limits of innovation to solve the world’s most important challenges. We strive for execution excellence while being direct, humble, collaborative, and inclusive of diverse perspectives.
+   
+
+  
+
+ AMD together we advance\\_
+   
+
+  
+
+**The Role**
+ AMD is looking for a senior software engineer to join our growing team. As a key contributor you will be part of a leading team to drive and enhance AMD’s abilities to deliver the highest quality, industry\\-leading technologies to market.
+   
+
+  
+
+**The Person**
+ The ideal candidate possesses an innovative and problem\\-solving mindset, has a keen eye for Software engineering development, and is diligent and passionate about Technology. A successful candidate will need to employ strong knowledge in computer technologies, leadership skills in technical areas, and SW engineering expertise as well as a strong ability to compete effectively in a fast\\-paced, relevant environment while working with different teams of engineers and collaborators.
+   
+
+  
+
+**Key Responsibilities**
+* Develop and drive execution of comprehensive, highly effective software for sophisticated new technology and new product introduction projects
+* Validate new SW features before releasing them to customers
+* Contribute to a high\\-functioning feature team
+* Collaborate closely with multiple teams to deliver key planning solutions and the technology to support them
+* Help contribute to the design and implementation of future architecture for a highly scalable, durable, and innovative system
+* Work very closely with dev teams and Project Managers to drive results
+
+
+**Preferred Experience**
+* Expert knowledge and hands\\-on experience in C, C\\+\\+
+* Knowledge of a Graphics Programming Language, such as Vulkan, OpenGL or DX12\\.
+* Solid understanding of object\\-oriented\\-design principles
+* Solid understanding of Software Engineering principles, Data structure, algorithms, Operating Systems concepts and multithread programming
+* Excellent design and code development skills, familiarity with Linux and modern software tools and techniques for development
+* Good analytical and problem\\-solving skills
+
+
+**Academic Credentials**
+* Bachelor’s or Master’s degree in Computer/Software Engineering, Computer Science, or related technical discipline
+
+
+*Benefits offered are described:* 
+ AMD benefits at a glance.
+   
+
+  
+
+*AMD does not accept unsolicited resumes from headhunters, recruitment agencies, or fee\\-based recruitment services. AMD and its subsidiaries are equal opportunity, inclusive employers and will consider all applicants without regard to age, ancestry, color, marital status, medical condition, mental or physical disability, national origin, race, religion, political and/or third\\-party affiliation, sex, pregnancy, sexual orientation, gender identity, military or veteran status, or any other characteristic protected by law. We encourage applications from all qualified candidates and will accommodate applicants’ needs under the respective laws throughout all stages of the recruitment and selection process.*","mid-senior level"
+"https://www.linkedin.com/jobs/view/4308124905","Software Engineer, Digital","Brightstar.ai","Miami, FL","****Role Summary****
+ Brightstar.AI is an
+ **AI intervention company** 
+ helping mid\\-level enterprises modernize IT foundations and embed AI into their operations. As a
+ **Technology Digital Developer** 
+ , you’ll be responsible for building and integrating digital solutions — from custom applications and automations to AI\\-powered tools — that enable transformation for our clients. This role is perfect for someone who enjoys hands\\-on development, problem\\-solving, and working at the intersection of IT systems and modern AI technologies.
+   
+
+  
+
+****What You’ll Do****
+* Design, develop, and deploy digital solutions (applications, automations, integrations, APIs) to support client transformation projects.
+* Work with cloud platforms (AWS, Azure, GCP) to build scalable and secure solutions.
+* Collaborate with analysts and solution architects to translate requirements into technical designs.
+* Integrate AI/ML capabilities into enterprise workflows and applications.
+* Support development of internal digital tools that improve Brightstar.AI operations.
+* Test, debug, and optimize applications for performance, usability, and reliability.
+* Document code, processes, and best practices for reuse and scalability.
+* Stay current on emerging tools, frameworks, and AI/automation platforms.
+
+
+****What You’ll Need****
+* Bachelor’s degree in Computer Science, Software Engineering, or related field.
+* 2–5 years of experience in software/application development.
+* Proficiency in modern programming languages (e.g., Python, JavaScript/TypeScript, Java, or C\\#).
+* Experience with web and API development frameworks (e.g., React, Node.js, Django, .NET).
+* Familiarity with cloud platforms (AWS, Azure, or GCP).
+* Understanding of databases (SQL/NoSQL) and data integration.
+* Strong problem\\-solving skills and ability to translate business needs into technical solutions.
+
+
+****Nice\\-to\\-Haves****
+* Exposure to AI/ML frameworks (TensorFlow, PyTorch, Hugging Face) or MLOps tools.
+* Experience with automation platforms (UiPath, Power Automate, Zapier).
+* Knowledge of DevOps practices (CI/CD, Docker, Kubernetes).
+* Familiarity with cybersecurity best practices in application development.
+* Prior experience in consulting, IT services, or working with mid\\-level enterprises.","entry level"
