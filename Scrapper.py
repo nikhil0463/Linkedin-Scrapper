@@ -20,5 +20,5 @@ print(f"Found {len(jobs)} jobs")
 selected_columns = ['job_url','title', 'company', 'location', 'description', 'job_level']
 jobs = jobs[selected_columns]
 print(jobs.head())
-print(jobs.columns)
-# jobs.to_csv("jobs.csv", quoting=csv.QUOTE_NONNUMERIC, escapechar="\\", index=False) # to_excel
+# print(jobs.columns)
+jobs.to_csv("jobs.csv", quoting=csv.QUOTE_NONNUMERIC, escapechar="\\", index=False) # to_excel
